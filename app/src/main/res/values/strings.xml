@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">InfoMensaApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="header_list">Menu del giorno</string>
+    <string name="title_activity_login">Logon</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_cfGenitore">Codice Fiscale</string>
+    <string name="prompt_ciGenitore">Carta d\'identità</string>
+
+    <string name="prompt_cfBambino">Codice Fiscale</string>
+    <string name="prompt_cpBambino">Carta d\'identità</string>
+
+
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="title_activity_calendar_view">Calendario presenze a Mensa</string>
+    <string name="title_activity_menudelgiorno">Menù del giorno</string>
+    <string name="title_activity_estratto_conto">Estratto Conto</string>
+
+
+</resources>
